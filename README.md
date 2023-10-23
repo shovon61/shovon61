@@ -1,6 +1,6 @@
 - 👋 Hi, I’m A . H . M . MUSHFIQUR RAHMAN
 - 👀 I’m interested in working
-- 🌱 I’m currently learning about Angular Frontend Framework.
+- 🌱 I’m currently working on Front-End Developer (Angular).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Mobile Number (+8801722040484)
                                   or - (+8801836467822)
