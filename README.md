@@ -1,4 +1,4 @@
-- 👋 Hi, I’m A . H . M . MUSHFIQUR RAHMAN
+- 👋 Hi, I’m A . H . M . MUSHFIQUR RAHMAN.
 - 👀 I’m interested in working.
 - 🌱 I’m currently working on Front-End Developer (Angular).
 - 💞️ I’m looking to collaborate on ...
