@@ -2,8 +2,8 @@
 - 👀 I’m interested in working.
 - 🌱 I’m currently working on Front-End Developer (Angular).
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Mobile Number (+8801722040484)
-                                  or - (+8801836467822)
+- 📫 How to reach me ....Mobile Number (+8801722040484)
+                                   or - (+8801836467822)
                         E-Mail- mushfiq.sh@gmail.com
                            or - mushfiqurshovon007@gmail.com
 
