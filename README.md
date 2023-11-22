@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ....Mobile Number (+8801722040484)
                                    or - (+8801836467822)
-                        E-Mail- mushfiq.sh@gmail.com
-                           or - mushfiqurshovon007@gmail.com
+                        E-Mail-   mushfiq.sh@gmail.com
+                           or -   mushfiqurshovon007@gmail.com
 
 <!---
 shovon61/shovon61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
