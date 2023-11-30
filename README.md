@@ -18,16 +18,6 @@ You can click the Preview link to take a look at your changes. Dreams power.
     <img src="https://img.shields.io/badge/JavaScript-E8D44D?style=plastic&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-6F11EF?style=plastic&logo=Bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/TailwindCSS-36B7F0?style=plastic&logo=TailwindCSS&logoColor=white">
-    <img src="https://img.shields.io/badge/Nginx-009137?style=plastic&logo=Nginx&logoColor=white">
-    <img src="https://img.shields.io/badge/Laragon-38ACF7?style=plastic&logo=Laragon&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-DD8A00?style=plastic&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-2F5E8D?style=plastic&logo=PostgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/GraphQL-DF35A9?style=plastic&logo=GraphQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle-C14432?style=plastic&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Git-E84D31?style=plastic&logo=Git&logoColor=white">
 </p>
 
-<a href="https://github.com/mesbaulislamrony/">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=mesbaulislamrony&show_icons=true&hide_title=true&hide_border=true&theme=white" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesbaulislamrony&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=white" />
-</a>
