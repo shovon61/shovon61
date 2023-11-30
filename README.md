@@ -31,8 +31,6 @@ You can click the Preview link to take a look at your changes. Dreams power.
     <img src="https://img.shields.io/badge/GraphQL-DF35A9?style=plastic&logo=GraphQL&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-C14432?style=plastic&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Git-E84D31?style=plastic&logo=Git&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-22B4E7?style=plastic&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-9E2220?style=plastic&logo=Redis&logoColor=white">
 </p>
 
 <a href="https://github.com/mesbaulislamrony/">
