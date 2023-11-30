@@ -19,5 +19,6 @@ You can click the Preview link to take a look at your changes. Dreams power.
     <img src="https://img.shields.io/badge/Bootstrap-6F11EF?style=plastic&logo=Bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/TailwindCSS-36B7F0?style=plastic&logo=TailwindCSS&logoColor=white">
     <img src="https://img.shields.io/badge/Git-E84D31?style=plastic&logo=Git&logoColor=white">
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 </p>
 
