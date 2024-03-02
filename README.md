@@ -13,10 +13,10 @@
 
 - 💬 Ask me about **Angular, TypeScript, JavaScript.**
 
-- 📫 How to reach me ** Mobile Number - (+8801722040484)
-                                   or - (+8801836467822)
-                        E-Mail-   mushfiq.sh@gmail.com
-                           or -   mushfiqurshovon007@gmail.com **
+- 📫 How to reach me ** Mobile Number :- (+8801722040484)
+                                   or :- (+8801836467822)
+                        E-Mail  :-   mushfiq.sh@gmail.com
+                           or :-   mushfiqurshovon007@gmail.com **
 
 <!--- - 📄 Know about my experiences [a](a)  --->
 
