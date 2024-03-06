@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [web development]((Angular).)
 
-- 🌱 I’m currently learning **Angular.**
+- 🌱 I’m currently learning **NestJS.**
 
 - 👯 I’m looking to collaborate on **open source project.**
 
