@@ -20,7 +20,7 @@
 
 <!--- - 📄 Know about my experiences [a](a)  --->
 
-- ⚡ Fun fact **Movies, Games, Walking, Travelling and Many More........**
+- ⚡ Fun fact **Movies, Games, Walking, Travelling and Many More.....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
